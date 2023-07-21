@@ -1,0 +1,108 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sshPublicKeys_vm_client2_s_ie_name": {
+            "value": null
+        },
+        "sshPublicKeys_vm_client3_s_ie_name": {
+            "value": null
+        },
+        "virtualMachines_vm_client1_s_ie_name": {
+            "value": null
+        },
+        "virtualMachines_vm_client2_s_ie_name": {
+            "value": null
+        },
+        "virtualMachines_vm_client3_s_ie_name": {
+            "value": null
+        },
+        "virtualMachines_vm_client4_s_ie_name": {
+            "value": null
+        },
+        "sshPublicKeys_vm_client1_s_ie_key_name": {
+            "value": null
+        },
+        "virtualMachines_vm_fortigate1_s_ie_name": {
+            "value": null
+        },
+        "virtualMachines_vm_fortigate2_s_ie_name": {
+            "value": null
+        },
+        "virtualMachines_vm_fortigate3_s_ie_name": {
+            "value": null
+        },
+        "networkInterfaces_vm_client3_s_ie26_name": {
+            "value": null
+        },
+        "networkInterfaces_vm_client1_s_ie268_name": {
+            "value": null
+        },
+        "networkInterfaces_vm_client2_s_ie436_name": {
+            "value": null
+        },
+        "networkInterfaces_vm_client4_s_ie401_name": {
+            "value": null
+        },
+        "storageAccounts_consoleo4od7ut2sttkk_name": {
+            "value": null
+        },
+        "publicIPAddresses_pip_fortigate1_s_ie_name": {
+            "value": null
+        },
+        "publicIPAddresses_pip_fortigate2_s_ie_name": {
+            "value": null
+        },
+        "publicIPAddresses_pip_fortigate3_s_ie_name": {
+            "value": null
+        },
+        "networkInterfaces_vm_client4_s_ie_Nic2_name": {
+            "value": null
+        },
+        "networkSecurityGroups_nsg_fortigate_s_ie_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vmclient4siensg912_name": {
+            "value": null
+        },
+        "networkInterfaces_vm_fortigate1_s_ie_Nic1_name": {
+            "value": null
+        },
+        "networkInterfaces_vm_fortigate1_s_ie_Nic2_name": {
+            "value": null
+        },
+        "networkInterfaces_vm_fortigate2_s_ie_Nic1_name": {
+            "value": null
+        },
+        "networkInterfaces_vm_fortigate2_s_ie_Nic2_name": {
+            "value": null
+        },
+        "networkInterfaces_vm_fortigate3_s_ie_Nic1_name": {
+            "value": null
+        },
+        "networkInterfaces_vm_fortigate3_s_ie_Nic2_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vm_client1_s_ie_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vm_client4_s_ie_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_fgt_o4od7ut2sttkk_NSG_name": {
+            "value": null
+        },
+        "sqlVirtualMachines_vm_client4_s_ie_name": {
+            "value": null
+        },
+        "routeTables_fgt_RouteTable_sn_fortigate1int_s_ie_name": {
+            "value": null
+        },
+        "routeTables_fgt_RouteTable_sn_fortigate1protect_s_ie_name": {
+            "value": null
+        },
+        "virtualNetworks_vnet_infra_s_ie_externalid": {
+            "value": null
+        }
+    }
+}
